@@ -4,3 +4,6 @@ One of my biggest passions is gaming, and Overwatch is a candidate for the game 
 
 
 When the Overwatch League revealed the brand new Stats Lab, I knew I had to check it out. In this GitHub repository, I'll be documenting some simple EDA and trying to answer some questions I wanted to know, as well as some more complicated stuff as my free time allows.
+
+
+The dataset I'm using can be found here at the [Overwatch League Stats Lab](https://overwatchleague.com/en-us/statslab)
